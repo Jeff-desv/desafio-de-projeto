@@ -13,7 +13,14 @@ public class aparelhoTelefonico {
 		cell.selecionarMusica();
 		cell.tocar();
 		cell.pausar();
-		
+		System.out.println();
+		cell.ligar();
+		cell.atender();
+		cell.iniciarCorreioVoz();
+		System.out.println();
+		cell.exibirPagina();
+		cell.adcionandoAba();
+		cell.atualizarPagina();
 		
 
 	}

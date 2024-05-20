@@ -4,11 +4,11 @@ public class Smartcell {
 	
 	//Reprodutor Musical
 	public void tocar() {
-		
+		System.out.println("PLAY");
 	}
 	
 	public void pausar() {
-		
+		System.out.println("Musica Pausada");
 	}
 	
 	public void selecionarMusica() {
