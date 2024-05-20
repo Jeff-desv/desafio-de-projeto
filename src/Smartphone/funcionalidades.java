@@ -22,6 +22,16 @@ public abstract class funcionalidades {
 		System.out.println("Iniciando Correio de Voz...");
 	}
 	
+	//Navegador de Internet
+	public void exibirPagina() {
+		System.out.println("Abrindo Google Chrome");
+	}
+	public void adcionandoAba() {
+		System.out.println("Nova Aba adcionada");
+	}
+	public void atualizarPagina() {
+		System.out.println("Pagina Atualizada");
+	}
 	
 
 }
