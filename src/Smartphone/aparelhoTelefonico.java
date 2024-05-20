@@ -7,6 +7,13 @@ public class aparelhoTelefonico {
 		
 		Smartcell cell = new Smartcell();
 		
+		System.out.println("Ligando Telefone");
+		System.out.println();
+		System.out.println("Abrindo o App de Musica");
+		cell.selecionarMusica();
+		cell.tocar();
+		cell.pausar();
+		
 		
 
 	}
