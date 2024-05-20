@@ -1,11 +1,15 @@
 package Smartphone;
 
-public abstract class funcionalidades {
+public class Smartcell {
 	
 	//Reprodutor Musical
-	public abstract void tocar();
+	public void tocar() {
+		
+	}
 	
-	public abstract void pausar();
+	public void pausar() {
+		
+	}
 	
 	public void selecionarMusica() {
 		System.out.println("Nothing Else Matters");
